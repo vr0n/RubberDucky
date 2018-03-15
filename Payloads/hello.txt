@@ -1,0 +1,13 @@
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Firefox.app
+ENTER
+DELAY 1000
+GUI N
+DELAY 500
+STRING https://addons.mozilla.org/firefox/downloads/file/869096/ublock_origin-1.15.10-an+fx.xpi?src=dp-btn-primary
+ENTER
+DELAY 10000
+GUI-SHIFT-W
+
